@@ -1,6 +1,6 @@
 # Hash chain
 
-chain_hash: `92066a2d6e2ca927847362f49170b3c07eb81e128311e3d70604a0f38cb9eb09` (52 arquivos)
+chain_hash: `5382182ac99da5acdd18bf493dbd7c6c3def131103bdd69872ae2732d522d5da` (52 arquivos)
 
 | Arquivo | SHA-256 |
 | --- | --- |
@@ -53,6 +53,6 @@ chain_hash: `92066a2d6e2ca927847362f49170b3c07eb81e128311e3d70604a0f38cb9eb09` (
 | `resultados/vies_direcao_2012_2022.json` | `d2e4d70bdb6d08690cad2e59a0eca5838ab35a7d2f2a452c5fafd2c13826f68f` |
 | `resultados/vies_ligacao_2026.json` | `47206a3bb5a7126682cde603f6e4a4460d7bad932b073d1eaf54515ea437ed0e` |
 | `run_all.py` | `603a00e8648a438fc43c80bedc2388db0c8310b71ae1351d4d9fe57e8eec0489` |
-| `site/material/index.pt-br.mdx` | `b1150d25c12ebff48d02568f77424c49aa00d04c1038a726b394cb66fd9273b2` |
+| `site/material/index.pt-br.mdx` | `b86fad8f04cd07a6d7f1b79c1954b053d3de0749647b8141bf66bc58e8d9a3b5` |
 | `site/material/pesquisas-2026.data.ts` | `562245b9ac64b9bf7ff62c820d3125c00908253bf86aba4386f7307bda749e80` |
 | `tests/test_numeros_publicados.py` | `e4288279bd53c5fa53dff0cf02f8d18d341aecc4647564d483d0da68dec99967` |

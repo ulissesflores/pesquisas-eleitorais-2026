@@ -1,5 +1,5 @@
 {
- "chain_hash": "92066a2d6e2ca927847362f49170b3c07eb81e128311e3d70604a0f38cb9eb09",
+ "chain_hash": "5382182ac99da5acdd18bf493dbd7c6c3def131103bdd69872ae2732d522d5da",
  "n_arquivos": 52,
  "arquivos": [
   {
@@ -200,7 +200,7 @@
   },
   {
    "arquivo": "site/material/index.pt-br.mdx",
-   "sha256": "b1150d25c12ebff48d02568f77424c49aa00d04c1038a726b394cb66fd9273b2"
+   "sha256": "b86fad8f04cd07a6d7f1b79c1954b053d3de0749647b8141bf66bc58e8d9a3b5"
   },
   {
    "arquivo": "site/material/pesquisas-2026.data.ts",
