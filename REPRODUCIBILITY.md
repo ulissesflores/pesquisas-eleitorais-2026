@@ -5,7 +5,9 @@
 1. **Derivação reproduzível.** Tudo em `resultados/`, `artigo/artigo-v1.md` e `site/material/` é recalculado por
    `python3 -I run_all.py` a partir de `dados/` e `codigo/`, só com a biblioteca padrão do Python 3.11+. O
    `chain_hash` de `output/provenance.json` sela código, testes, dados declarados e resultados; `run_all.py` termina
-   com `python3 -I make_provenance.py --verify`, que recalcula o selo e reprova qualquer divergência.
+   com `python3 -I make_provenance.py --verify`, que recalcula o selo e reprova qualquer divergência. Código e dados
+   de entrada entram no selo byte a byte; os resultados numéricos entram arredondados a 6 casas decimais, porque a
+   biblioteca matemática de cada sistema operacional difere na última casa binária (medido: macOS x Linux do CI).
 2. **Evidência congelada, não re-rodável.** A coleta dos percentuais de cada pesquisa (reportagens e relatórios de
    institutos lidos em 23/10/2026) e o arquivo de registro do TSE daquele dia não podem ser refeitos: o TSE regenera
    o arquivo diariamente e reportagens mudam. Por isso a cópia do zip do TSE fica em `dados/externo/tse/` e cada

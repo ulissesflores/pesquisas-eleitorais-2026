@@ -1,5 +1,5 @@
 {
- "chain_hash": "84bebfde910a1c139b0e845c8d6b8b79aa4f4083fffb798955c80509822b6664",
+ "chain_hash": "92066a2d6e2ca927847362f49170b3c07eb81e128311e3d70604a0f38cb9eb09",
  "n_arquivos": 52,
  "arquivos": [
   {
@@ -28,7 +28,7 @@
   },
   {
    "arquivo": "codigo/probabilidade.py",
-   "sha256": "a8e9c2fe3f046aceaf6b6e8c111243abe7b4c21f25e580877ffde74a876328ef"
+   "sha256": "0b08484ad1cd90a36453321873ce56fcdb852eb3d51baee181c9e823a2dede31"
   },
   {
    "arquivo": "codigo/ranking.py",
@@ -152,47 +152,47 @@
   },
   {
    "arquivo": "resultados/acuracia_1t_2026.json",
-   "sha256": "bfc0baeb54b7f69ae1fefb09f00f97308060f9c0bf05f7909101676c84f672aa"
+   "sha256": "0d2d30cdcec960465186aced3da0c36ba0ffd4404a08c68e66cf931c3ac1ea99"
   },
   {
    "arquivo": "resultados/calibra_sigma.json",
-   "sha256": "51e5dbf15f8da3df35dd6c0316515ba4f24885ab335f6f2728bf74e18ff1db93"
+   "sha256": "745bd42e292d3aa5890bae4e0a4bfcefb9dec98a2018b119deceef60753ade7d"
   },
   {
    "arquivo": "resultados/modelo_2t.json",
-   "sha256": "24dfa908f9a5be45ea6c348d71fbc34b67dcd16bea32d66e9c68893f5ea0eead"
+   "sha256": "dc3480d39e495c23ced1e8fc828003744dd4834ac5db89c8e657b8569daa5334"
   },
   {
    "arquivo": "resultados/pesquisas_avaliadas_2012_2022.csv",
-   "sha256": "f00fd9fc3f2fad4025a51287a0a9757bd1c5ef61c8e19d7c5e42188100732542"
+   "sha256": "5bd3ee34498f01d1aaed3d0cc86ee8ede6387baa1fc5916eca9343b4c68394c3"
   },
   {
    "arquivo": "resultados/probabilidade.json",
-   "sha256": "6cf4da0f2b20b5d87034262f31aa0b989dcb120072844316baff687d3c229969"
+   "sha256": "c69e99e60b26620ad787f2d843f6932de9a96e01c11419165213cea6f78daa8a"
   },
   {
    "arquivo": "resultados/ranking_2012_2022.json",
-   "sha256": "3fc1a5e8521438738f3a0d40c5c90ccfd1b315f36cf9c62c12e472af04f8bcc2"
+   "sha256": "edc89204278167df96bf8f90e77b6373792988019429f04821c6020e3584f488"
   },
   {
    "arquivo": "resultados/ranking_presidencial_1989_2026.json",
-   "sha256": "e112d7ecb8c3ca4b5f109597a671154ef628d271aa973b6b1cac86040b050167"
+   "sha256": "d61e0bb65484c91f11b7eefb9c9c1ef631a8f14537d1c2d230912e39453bd91a"
   },
   {
    "arquivo": "resultados/transferencia.json",
-   "sha256": "76492ffd5280bbc6115ff9bee6ba520ee2d8a7c105b00f54471185f91060477e"
+   "sha256": "f887768f1fa21d746fa65a4ab12ac7c7d14901f8d9e0733258aaa8e95093a642"
   },
   {
    "arquivo": "resultados/vies_casa_por_ciclo.json",
-   "sha256": "1b71ea8327e47cb7f2f0079aeac2bce52f729df9c5d66b5eb49d554ff0555df7"
+   "sha256": "e2bdf1086288ae931a66244152cdbb9c503e22e26fd2cec6c22bee7552f92ee0"
   },
   {
    "arquivo": "resultados/vies_direcao_2012_2022.json",
-   "sha256": "8119e93d883ca8eb6e52db12c8fc6c45045506792e19b41e8bf8c2891c736cc3"
+   "sha256": "d2e4d70bdb6d08690cad2e59a0eca5838ab35a7d2f2a452c5fafd2c13826f68f"
   },
   {
    "arquivo": "resultados/vies_ligacao_2026.json",
-   "sha256": "3704872f09c67ce5dc533978a34a76bd5185e699b4e7cd6afbd2514a534f3cc9"
+   "sha256": "47206a3bb5a7126682cde603f6e4a4460d7bad932b073d1eaf54515ea437ed0e"
   },
   {
    "arquivo": "run_all.py",

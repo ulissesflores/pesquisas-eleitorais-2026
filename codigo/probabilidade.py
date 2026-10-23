@@ -55,7 +55,9 @@ def p_t(mu, sigma, gl, sims=400_000, seed=5):
     for _ in range(sims):
         t = rnd.gauss(0, 1) / math.sqrt(rnd.gammavariate(gl / 2, 2) / gl)
         acima += mu + esc * t > 50
-    return acima / sims
+    # 4 casas: o erro de Monte Carlo é ~0,0007 com 400 mil sorteios, e k/400000 cai em fronteira de
+    # arredondamento da 6ª casa (quebraria o selo entre sistemas operacionais)
+    return round(acima / sims, 4)
 
 
 if __name__ == "__main__":

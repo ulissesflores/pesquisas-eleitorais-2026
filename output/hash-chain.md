@@ -1,6 +1,6 @@
 # Hash chain
 
-chain_hash: `84bebfde910a1c139b0e845c8d6b8b79aa4f4083fffb798955c80509822b6664` (52 arquivos)
+chain_hash: `92066a2d6e2ca927847362f49170b3c07eb81e128311e3d70604a0f38cb9eb09` (52 arquivos)
 
 | Arquivo | SHA-256 |
 | --- | --- |
@@ -10,7 +10,7 @@ chain_hash: `84bebfde910a1c139b0e845c8d6b8b79aa4f4083fffb798955c80509822b6664` (
 | `codigo/capa.py` | `88cf4e7958df19d84fecab4b4a5b277d9a13a313cc72cb62fb2ab7e6b7530a01` |
 | `codigo/confere_tse.py` | `624dc77b20c079c093d90a058d4db1bad7583f7a5b951035f8458b10476b62b5` |
 | `codigo/modelo_2t.py` | `bccf006bb071e16f108ff988dd0e7cab3f07e903d592b144f11a4efb92b9f51d` |
-| `codigo/probabilidade.py` | `a8e9c2fe3f046aceaf6b6e8c111243abe7b4c21f25e580877ffde74a876328ef` |
+| `codigo/probabilidade.py` | `0b08484ad1cd90a36453321873ce56fcdb852eb3d51baee181c9e823a2dede31` |
 | `codigo/ranking.py` | `96dce155b6b6e3a33b6e187552a6a71da2287021b3622d5e44be73b453ad0fc4` |
 | `codigo/ranking_presidencial.py` | `6522e4b392fd64542b758ef9c672dd02ea53d4c09cb2232ac99d3ec0a21ca729` |
 | `codigo/site_charts.py` | `17848340eb9620a5a3d950b084bc8650feec6af8d4b130429be4bc8831c4f706` |
@@ -41,17 +41,17 @@ chain_hash: `84bebfde910a1c139b0e845c8d6b8b79aa4f4083fffb798955c80509822b6664` (
 | `dados/rodadas_2t.csv` | `dc12715f242c0eb41f4ad7a84c80f2c0f7fad18600ac8aac39366ac32b76098b` |
 | `dados/rodadas_2t_conferidas_tse.csv` | `ea35df5f544e4a5ea6165d096ba0f327f1b6575bdb91127ccc9d6a4797af9d6b` |
 | `dados/rodadas_2t_confianca.csv` | `9b8223b4057009af76194855d6269c3c3472ef83463daf1f6e1e3ccbb5594da6` |
-| `resultados/acuracia_1t_2026.json` | `bfc0baeb54b7f69ae1fefb09f00f97308060f9c0bf05f7909101676c84f672aa` |
-| `resultados/calibra_sigma.json` | `51e5dbf15f8da3df35dd6c0316515ba4f24885ab335f6f2728bf74e18ff1db93` |
-| `resultados/modelo_2t.json` | `24dfa908f9a5be45ea6c348d71fbc34b67dcd16bea32d66e9c68893f5ea0eead` |
-| `resultados/pesquisas_avaliadas_2012_2022.csv` | `f00fd9fc3f2fad4025a51287a0a9757bd1c5ef61c8e19d7c5e42188100732542` |
-| `resultados/probabilidade.json` | `6cf4da0f2b20b5d87034262f31aa0b989dcb120072844316baff687d3c229969` |
-| `resultados/ranking_2012_2022.json` | `3fc1a5e8521438738f3a0d40c5c90ccfd1b315f36cf9c62c12e472af04f8bcc2` |
-| `resultados/ranking_presidencial_1989_2026.json` | `e112d7ecb8c3ca4b5f109597a671154ef628d271aa973b6b1cac86040b050167` |
-| `resultados/transferencia.json` | `76492ffd5280bbc6115ff9bee6ba520ee2d8a7c105b00f54471185f91060477e` |
-| `resultados/vies_casa_por_ciclo.json` | `1b71ea8327e47cb7f2f0079aeac2bce52f729df9c5d66b5eb49d554ff0555df7` |
-| `resultados/vies_direcao_2012_2022.json` | `8119e93d883ca8eb6e52db12c8fc6c45045506792e19b41e8bf8c2891c736cc3` |
-| `resultados/vies_ligacao_2026.json` | `3704872f09c67ce5dc533978a34a76bd5185e699b4e7cd6afbd2514a534f3cc9` |
+| `resultados/acuracia_1t_2026.json` | `0d2d30cdcec960465186aced3da0c36ba0ffd4404a08c68e66cf931c3ac1ea99` |
+| `resultados/calibra_sigma.json` | `745bd42e292d3aa5890bae4e0a4bfcefb9dec98a2018b119deceef60753ade7d` |
+| `resultados/modelo_2t.json` | `dc3480d39e495c23ced1e8fc828003744dd4834ac5db89c8e657b8569daa5334` |
+| `resultados/pesquisas_avaliadas_2012_2022.csv` | `5bd3ee34498f01d1aaed3d0cc86ee8ede6387baa1fc5916eca9343b4c68394c3` |
+| `resultados/probabilidade.json` | `c69e99e60b26620ad787f2d843f6932de9a96e01c11419165213cea6f78daa8a` |
+| `resultados/ranking_2012_2022.json` | `edc89204278167df96bf8f90e77b6373792988019429f04821c6020e3584f488` |
+| `resultados/ranking_presidencial_1989_2026.json` | `d61e0bb65484c91f11b7eefb9c9c1ef631a8f14537d1c2d230912e39453bd91a` |
+| `resultados/transferencia.json` | `f887768f1fa21d746fa65a4ab12ac7c7d14901f8d9e0733258aaa8e95093a642` |
+| `resultados/vies_casa_por_ciclo.json` | `e2bdf1086288ae931a66244152cdbb9c503e22e26fd2cec6c22bee7552f92ee0` |
+| `resultados/vies_direcao_2012_2022.json` | `d2e4d70bdb6d08690cad2e59a0eca5838ab35a7d2f2a452c5fafd2c13826f68f` |
+| `resultados/vies_ligacao_2026.json` | `47206a3bb5a7126682cde603f6e4a4460d7bad932b073d1eaf54515ea437ed0e` |
 | `run_all.py` | `603a00e8648a438fc43c80bedc2388db0c8310b71ae1351d4d9fe57e8eec0489` |
 | `site/material/index.pt-br.mdx` | `b1150d25c12ebff48d02568f77424c49aa00d04c1038a726b394cb66fd9273b2` |
 | `site/material/pesquisas-2026.data.ts` | `562245b9ac64b9bf7ff62c820d3125c00908253bf86aba4386f7307bda749e80` |

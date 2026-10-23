@@ -134,7 +134,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés",
    "P_normal": 0.785922413641725,
-   "P_t": 0.77115
+   "P_t": 0.7712
   },
   {
    "centro": "CENTRAL: mediana da última rodada",
@@ -142,7 +142,7 @@
    "ajuste_vies": 0.3005074786324786,
    "rotulo_vies": "viés histórico do 2º turno",
    "P_normal": 0.8486030198999917,
-   "P_t": 0.828835
+   "P_t": 0.8288
   },
   {
    "centro": "mediana sem a rodada de fonte única (DataTrends)",
@@ -150,7 +150,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés",
    "P_normal": 0.7629034241510585,
-   "P_t": 0.7501875
+   "P_t": 0.7502
   },
   {
    "centro": "mediana sem a rodada de fonte única (DataTrends)",
@@ -158,7 +158,7 @@
    "ajuste_vies": 0.3005074786324786,
    "rotulo_vies": "viés histórico do 2º turno",
    "P_normal": 0.8299027626098121,
-   "P_t": 0.8115825
+   "P_t": 0.8116
   },
   {
    "centro": "mediana só com rodadas até 7 dias antes (regra da calibração)",
@@ -166,7 +166,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés",
    "P_normal": 0.785922413641725,
-   "P_t": 0.77115
+   "P_t": 0.7712
   },
   {
    "centro": "mediana só com rodadas até 7 dias antes (regra da calibração)",
@@ -174,7 +174,7 @@
    "ajuste_vies": 0.3005074786324786,
    "rotulo_vies": "viés histórico do 2º turno",
    "P_normal": 0.8486030198999917,
-   "P_t": 0.828835
+   "P_t": 0.8288
   },
   {
    "centro": "mediana sem as 3 maiores para Flávio",
@@ -182,7 +182,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés",
    "P_normal": 0.733358652016397,
-   "P_t": 0.72261
+   "P_t": 0.7226
   },
   {
    "centro": "mediana sem as 3 maiores para Flávio",
@@ -190,7 +190,7 @@
    "ajuste_vies": 0.3005074786324786,
    "rotulo_vies": "viés histórico do 2º turno",
    "P_normal": 0.8054114418516308,
-   "P_t": 0.78907
+   "P_t": 0.7891
   },
   {
    "centro": "mediana sem as 3 maiores e as 3 menores",
@@ -198,7 +198,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés",
    "P_normal": 0.785922413641725,
-   "P_t": 0.77115
+   "P_t": 0.7712
   },
   {
    "centro": "mediana sem as 3 maiores e as 3 menores",
@@ -206,7 +206,7 @@
    "ajuste_vies": 0.3005074786324786,
    "rotulo_vies": "viés histórico do 2º turno",
    "P_normal": 0.8486030198999917,
-   "P_t": 0.828835
+   "P_t": 0.8288
   },
   {
    "centro": "mediana dos 4 institutos que erraram menos que os rivais em 2012-2022",
@@ -214,7 +214,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés",
    "P_normal": 0.7414021245881629,
-   "P_t": 0.72993
+   "P_t": 0.7299
   },
   {
    "centro": "mediana dos 4 institutos que erraram menos que os rivais em 2012-2022",
@@ -222,7 +222,7 @@
    "ajuste_vies": 0.3005074786324786,
    "rotulo_vies": "viés histórico do 2º turno",
    "P_normal": 0.8121324842941668,
-   "P_t": 0.7952875
+   "P_t": 0.7953
   },
   {
    "centro": "mediana dos institutos com >=20 pesquisas 2012-2022",
@@ -230,7 +230,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés",
    "P_normal": 0.7005825522801802,
-   "P_t": 0.6919775
+   "P_t": 0.692
   },
   {
    "centro": "mediana dos institutos com >=20 pesquisas 2012-2022",
@@ -238,7 +238,7 @@
    "ajuste_vies": 0.3005074786324786,
    "rotulo_vies": "viés histórico do 2º turno",
    "P_normal": 0.777621372829347,
-   "P_t": 0.763645
+   "P_t": 0.7636
   },
   {
    "centro": "tendência + casa, janela desde 05/10",
@@ -246,7 +246,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés",
    "P_normal": 0.5528277094561083,
-   "P_t": 0.550835
+   "P_t": 0.5508
   },
   {
    "centro": "tendência + casa, janela desde 05/10",
@@ -254,7 +254,7 @@
    "ajuste_vies": 0.3005074786324786,
    "rotulo_vies": "viés histórico do 2º turno",
    "P_normal": 0.6446501994019714,
-   "P_t": 0.6391225
+   "P_t": 0.6391
   },
   {
    "centro": "tendência + casa, janela desde 12/10",
@@ -262,7 +262,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés",
    "P_normal": 0.683520232801048,
-   "P_t": 0.67595
+   "P_t": 0.676
   },
   {
    "centro": "tendência + casa, janela desde 12/10",
@@ -270,7 +270,7 @@
    "ajuste_vies": 0.3005074786324786,
    "rotulo_vies": "viés histórico do 2º turno",
    "P_normal": 0.7629034459085013,
-   "P_t": 0.7501875
+   "P_t": 0.7502
   },
   {
    "centro": "tendência + casa, janela desde 15/10",
@@ -278,7 +278,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés",
    "P_normal": 0.8088558701863728,
-   "P_t": 0.792285
+   "P_t": 0.7923
   },
   {
    "centro": "tendência + casa, janela desde 15/10",
@@ -286,7 +286,7 @@
    "ajuste_vies": 0.3005074786324786,
    "rotulo_vies": "viés histórico do 2º turno",
    "P_normal": 0.8668870031780996,
-   "P_t": 0.845805
+   "P_t": 0.8458
   },
   {
    "centro": "tendência + casa, janela desde 18/10",
@@ -294,7 +294,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés",
    "P_normal": 0.6882809581352418,
-   "P_t": 0.680595
+   "P_t": 0.6806
   },
   {
    "centro": "tendência + casa, janela desde 18/10",
@@ -302,7 +302,7 @@
    "ajuste_vies": 0.3005074786324786,
    "rotulo_vies": "viés histórico do 2º turno",
    "P_normal": 0.7670271217537127,
-   "P_t": 0.7539425
+   "P_t": 0.7539
   },
   {
    "centro": "CENTRAL",
@@ -310,7 +310,7 @@
    "ajuste_vies": 1.8895076806442077,
    "rotulo_vies": "viés do 1º turno de 2026 se repete (sem apoio histórico)",
    "P_normal": 0.9889750908742387,
-   "P_t": 0.96888
+   "P_t": 0.9689
   },
   {
    "centro": "CENTRAL",
@@ -318,7 +318,7 @@
    "ajuste_vies": 0.0,
    "rotulo_vies": "sem viés, sigma calibrado em 14 dias (RMS 1.41)",
    "P_normal": 0.7598711987603357,
-   "P_t": 0.747335
+   "P_t": 0.7473
   }
  ],
  "sensibilidade_sigma_no_centro": {

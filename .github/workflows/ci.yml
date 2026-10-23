@@ -4,6 +4,7 @@ jobs:
   verify:
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
         python: ["3.11", "3.12"]
     steps:
@@ -17,6 +18,12 @@ jobs:
         run: python -I run_all.py
       - name: pytest
         run: pip install pytest && pytest -q
+      - name: resultados recalculados (para diagnóstico se o selo divergir)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultados-${{ matrix.python }}
+          path: resultados/
   lint:
     runs-on: ubuntu-latest
     continue-on-error: true  # o selo cobre o código; lint não reescreve arquivo selado
