@@ -1,0 +1,199 @@
+{
+ "n_rodadas": 38,
+ "n_institutos": 17,
+ "excluidas": {
+  "Alfa Inteligencia": "registro BR-08496/2026 tem n = 1.200 no TSE, mas a reportagem atribui n = 2.700, que é o do BR-00820/2026: atribuição do resultado ao registro em conflito"
+ },
+ "ultima_rodada": [
+  {
+   "inst": "Gerp",
+   "fim": "2026-10-20",
+   "dias": 5,
+   "v": 52.63157894736842,
+   "origem": "total",
+   "reg": "BR-03835/2026"
+  },
+  {
+   "inst": "Real Time Big Data",
+   "fim": "2026-10-22",
+   "dias": 3,
+   "v": 52.12765957446808,
+   "origem": "total",
+   "reg": "BR-09670/2026"
+  },
+  {
+   "inst": "DataTrends",
+   "fim": "2026-10-21",
+   "dias": 4,
+   "v": 52.083333333333336,
+   "origem": "total",
+   "reg": "BR-03365/2026"
+  },
+  {
+   "inst": "Indexa/Broadcast",
+   "fim": "2026-10-14",
+   "dias": 11,
+   "v": 51.16279069767442,
+   "origem": "total",
+   "reg": "BR-04629/2026"
+  },
+  {
+   "inst": "AtlasIntel/Bloomberg",
+   "fim": "2026-10-18",
+   "dias": 7,
+   "v": 51.129363449691986,
+   "origem": "total",
+   "reg": "BR-02418/2026"
+  },
+  {
+   "inst": "Futura/100% Cidades",
+   "fim": "2026-10-20",
+   "dias": 5,
+   "v": 51.097178683385586,
+   "origem": "total",
+   "reg": "BR-06614/2026"
+  },
+  {
+   "inst": "Meio/Ideia",
+   "fim": "2026-10-19",
+   "dias": 6,
+   "v": 51.06382978723404,
+   "origem": "total",
+   "reg": "BR-08251/2026"
+  },
+  {
+   "inst": "Palver",
+   "fim": "2026-10-20",
+   "dias": 5,
+   "v": 51.02040816326531,
+   "origem": "total",
+   "reg": "BR-04612/2026"
+  },
+  {
+   "inst": "PoderData/Aya",
+   "fim": "2026-10-21",
+   "dias": 4,
+   "v": 51.0,
+   "origem": "valido",
+   "reg": "BR-07926/2026"
+  },
+  {
+   "inst": "Instituto França",
+   "fim": "2026-10-20",
+   "dias": 5,
+   "v": 50.80645161290324,
+   "origem": "total",
+   "reg": "BR-07896/2026"
+  },
+  {
+   "inst": "Veritá",
+   "fim": "2026-10-19",
+   "dias": 6,
+   "v": 50.76608784473953,
+   "origem": "total",
+   "reg": "BR-06396/2026"
+  },
+  {
+   "inst": "Quaest",
+   "fim": "2026-10-20",
+   "dias": 5,
+   "v": 50.561797752808985,
+   "origem": "total",
+   "reg": "BR-08535/2026"
+  },
+  {
+   "inst": "Datafolha",
+   "fim": "2026-10-22",
+   "dias": 3,
+   "v": 50.53763440860215,
+   "origem": "total",
+   "reg": "BR-09709/2026"
+  },
+  {
+   "inst": "Ipespe/Abrapel",
+   "fim": "2026-10-22",
+   "dias": 3,
+   "v": 50.5,
+   "origem": "valido",
+   "reg": "BR-04350/2026"
+  },
+  {
+   "inst": "CNT/MDA",
+   "fim": "2026-10-15",
+   "dias": 10,
+   "v": 50.48543689320389,
+   "origem": "total",
+   "reg": "BR-00652/2026"
+  },
+  {
+   "inst": "BTG/Nexus",
+   "fim": "2026-10-18",
+   "dias": 7,
+   "v": 50.32467532467532,
+   "origem": "total",
+   "reg": "BR-04499/2026"
+  },
+  {
+   "inst": "Vox Brasil",
+   "fim": "2026-10-22",
+   "dias": 3,
+   "v": 49.38684503901896,
+   "origem": "total",
+   "reg": "BR-03259/2026"
+  }
+ ],
+ "mediana": 51.0,
+ "media": 50.98147479484548,
+ "dp_entre_institutos": 0.759510519947905,
+ "media_recencia_n": 50.97168642150739,
+ "tendencia": {
+  "centro_25_10": 50.16761330160627,
+  "pp_por_dia": -0.12312806762305,
+  "dp_residuo": 0.5101235636092413,
+  "ic95_bootstrap_institutos": [
+   49.835840468085614,
+   50.51578064870341
+  ],
+  "dp_bootstrap": 0.1698715110420483
+ },
+ "tendencia_por_janela": {
+  "2026-10-05": {
+   "centro_25_10": 50.16761330160627,
+   "pp_por_dia": -0.12312806762305
+  },
+  "2026-10-12": {
+   "centro_25_10": 50.60271841673917,
+   "pp_por_dia": -0.059216682530322695
+  },
+  "2026-10-15": {
+   "centro_25_10": 51.102650496533144,
+   "pp_por_dia": 0.02591196538651743
+  },
+  "2026-10-18": {
+   "centro_25_10": 50.61965293648833,
+   "pp_por_dia": -0.08087394188971835
+  }
+ },
+ "efeito_casa": {
+  "Vox Brasil": -1.6459006485290422,
+  "CNT/MDA": -0.9134570846328615,
+  "BTG/Nexus": -0.43010470259586975,
+  "Palver": -0.38990850843274616,
+  "Quaest": -0.37774744444212827,
+  "Indexa/Broadcast": -0.3592313477853842,
+  "Futura/100% Cidades": -0.3230766810463278,
+  "Veritá": -0.158029886409362,
+  "Datafolha": -0.14814380956696416,
+  "Instituto França": 0.023197973181736786,
+  "Ipespe/Abrapel": 0.0677726888299152,
+  "PoderData/Aya": 0.1318880390690086,
+  "Meio/Ideia": 0.15744807988949058,
+  "AtlasIntel/Bloomberg": 0.3141597109366926,
+  "DataTrends": 0.9677814217307853,
+  "Real Time Big Data": 1.1485917942272883,
+  "Gerp": 1.9347604055757686
+ },
+ "institutos_com_lula_a_frente": [
+  "Vox Brasil"
+ ]
+}

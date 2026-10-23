@@ -1,0 +1,71 @@
+ano,turno,candidato,partido,pct_valido_oficial,url,fonte_tipo
+1989,1,Fernando Collor,PRN,30.48,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_uf/votacao_candidato_uf_1989.zip (dataset https://dadosabertos.tse.jus.br/dataset/resultados-1989),TSE
+1989,1,Lula,PT,17.19,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_uf/votacao_candidato_uf_1989.zip (dataset https://dadosabertos.tse.jus.br/dataset/resultados-1989),TSE
+1989,1,Leonel Brizola,PDT,16.51,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_uf/votacao_candidato_uf_1989.zip (dataset https://dadosabertos.tse.jus.br/dataset/resultados-1989),TSE
+1989,1,Mario Covas,PSDB,11.52,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_uf/votacao_candidato_uf_1989.zip (dataset https://dadosabertos.tse.jus.br/dataset/resultados-1989),TSE
+1989,1,Paulo Maluf,PDS,8.85,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_uf/votacao_candidato_uf_1989.zip (dataset https://dadosabertos.tse.jus.br/dataset/resultados-1989),TSE
+1989,1,Guilherme Afif Domingos,PL,4.84,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_uf/votacao_candidato_uf_1989.zip (dataset https://dadosabertos.tse.jus.br/dataset/resultados-1989),TSE
+1989,1,Ulysses Guimaraes,PMDB,4.74,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_uf/votacao_candidato_uf_1989.zip (dataset https://dadosabertos.tse.jus.br/dataset/resultados-1989),TSE
+1989,2,Fernando Collor,PRN,53.03,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_uf/votacao_candidato_uf_1989.zip (dataset https://dadosabertos.tse.jus.br/dataset/resultados-1989),TSE
+1989,2,Lula,PT,46.97,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_uf/votacao_candidato_uf_1989.zip (dataset https://dadosabertos.tse.jus.br/dataset/resultados-1989),TSE
+1994,1,Fernando Henrique Cardoso,PSDB,54.28,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1994.zip,TSE
+1994,1,Lula,PT,27.04,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1994.zip,TSE
+1994,1,Eneas Carneiro,PRONA,7.38,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1994.zip,TSE
+1994,1,Orestes Quercia,PMDB,4.38,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1994.zip,TSE
+1994,1,Leonel Brizola,PDT,3.18,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1994.zip,TSE
+1994,1,Esperidiao Amin,PPR,2.75,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1994.zip,TSE
+1998,1,Fernando Henrique Cardoso,PSDB,53.06,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip,TSE
+1998,1,Lula,PT,31.71,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip,TSE
+1998,1,Ciro Gomes,PPS,10.97,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip,TSE
+1998,1,Eneas Carneiro,PRONA,2.14,https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip,TSE
+2002,1,Lula,PT,46.44,https://www1.uol.com.br/fernandorodrigues/arquivos/eleicoes02/resultados/1o_turno/pres.shl,secundaria
+2002,1,Serra,PSDB,23.2,https://www1.uol.com.br/fernandorodrigues/arquivos/eleicoes02/resultados/1o_turno/pres.shl,secundaria
+2002,1,Garotinho,PSB,17.87,https://www1.uol.com.br/fernandorodrigues/arquivos/eleicoes02/resultados/1o_turno/pres.shl,secundaria
+2002,1,Ciro Gomes,PPS,11.97,https://www1.uol.com.br/fernandorodrigues/arquivos/eleicoes02/resultados/1o_turno/pres.shl,secundaria
+2002,2,Lula,PT,61.27,https://www1.uol.com.br/fernandorodrigues/arquivos/eleicoes02/resultados/2o_turno/pres.shl,secundaria
+2002,2,Serra,PSDB,38.73,https://www1.uol.com.br/fernandorodrigues/arquivos/eleicoes02/resultados/2o_turno/pres.shl,secundaria
+2006,1,Lula,PT,48.61,https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2006,secundaria
+2006,1,Alckmin,PSDB,41.64,https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2006,secundaria
+2006,1,Heloisa Helena,PSOL,6.85,https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2006,secundaria
+2006,1,Cristovam Buarque,PDT,2.64,https://pt.wikipedia.org/wiki/Elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2006,secundaria
+2006,2,Lula,PT,60.83,https://apps.tre-sc.jus.br/site/fileadmin/arquivos/eleicoes/histeleiweb/20062/ResultFinalE20062presidencial.htm,secundaria
+2006,2,Alckmin,PSDB,39.17,https://apps.tre-sc.jus.br/site/fileadmin/arquivos/eleicoes/histeleiweb/20062/ResultFinalE20062presidencial.htm,secundaria
+2010,1,Dilma Rousseff,PT,46.91,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2010,secundaria (Wikipedia pt; cita TSE)
+2010,1,José Serra,PSDB,32.61,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2010,secundaria (Wikipedia pt; cita TSE)
+2010,1,Marina Silva,PV,19.33,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2010,secundaria (Wikipedia pt; cita TSE)
+2010,1,Plínio de Arruda Sampaio,PSOL,0.87,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2010,secundaria (Wikipedia pt; cita TSE)
+2010,2,Dilma Rousseff,PT,56.05,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2010,secundaria (Wikipedia pt; cita TSE)
+2010,2,José Serra,PSDB,43.95,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2010,secundaria (Wikipedia pt; cita TSE)
+2014,1,Dilma Rousseff,PT,41.59,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2014,secundaria (Wikipedia pt; cita Folha/TSE)
+2014,1,Aécio Neves,PSDB,33.55,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2014,secundaria (Wikipedia pt; cita Folha/TSE)
+2014,1,Marina Silva,PSB,21.32,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2014,secundaria (Wikipedia pt; cita Folha/TSE)
+2014,1,Luciana Genro,PSOL,1.55,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2014,secundaria (Wikipedia pt; cita Folha/TSE)
+2014,1,Pastor Everaldo,PSC,0.75,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2014,secundaria (Wikipedia pt; cita Folha/TSE)
+2014,1,Eduardo Jorge,PV,0.61,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2014,secundaria (Wikipedia pt; cita Folha/TSE)
+2014,2,Dilma Rousseff,PT,51.64,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2014,secundaria (Wikipedia pt; cita Folha/TSE)
+2014,2,Aécio Neves,PSDB,48.36,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2014,secundaria (Wikipedia pt; cita Folha/TSE)
+2018,1,Jair Bolsonaro,PSL,46.03,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2018,1,Fernando Haddad,PT,29.28,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2018,1,Ciro Gomes,PDT,12.47,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2018,1,Geraldo Alckmin,PSDB,4.76,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2018,1,João Amoêdo,NOVO,2.5,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2018,1,Cabo Daciolo,PATRI,1.26,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2018,1,Henrique Meirelles,MDB,1.2,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2018,1,Marina Silva,REDE,1.0,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2018,1,Álvaro Dias,PODE,0.8,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2018,1,Guilherme Boulos,PSOL,0.58,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2018,2,Jair Bolsonaro,PSL,55.13,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2018,2,Fernando Haddad,PT,44.87,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2018,secundaria (Wikipedia pt; cita TSE)
+2022,1,Lula,PT,48.43,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,1,Jair Bolsonaro,PL,43.2,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,1,Simone Tebet,MDB,4.16,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,1,Ciro Gomes,PDT,3.04,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,1,Soraya Thronicke,UNIÃO,0.51,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,1,Felipe d'Avila,NOVO,0.47,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,1,Padre Kelmon,PTB,0.07,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,1,Léo Péricles,UP,0.05,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,1,Sofia Manzano,PCB,0.04,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,1,Vera Lúcia,PSTU,0.02,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,1,Constituinte Eymael,DC,0.01,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,2,Lula,PT,50.9,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)
+2022,2,Jair Bolsonaro,PL,49.1,https://pt.wikipedia.org/wiki/Resultados_da_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2022,secundaria (Wikipedia pt; cita resultados.tse.jus.br)

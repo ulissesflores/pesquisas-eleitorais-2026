@@ -1,0 +1,10 @@
+{
+  "title": "Pesquisas eleitorais 2026: acurácia, direção do erro e cenários do 2º turno",
+  "upload_type": "software",
+  "access_right": "closed",
+  "version": "0.1.0",
+  "creators": [{"name": "Flores, Carlos Ulisses", "orcid": "0000-0002-6034-7765"}],
+  "description": "Dados, código e versão técnica do artigo publicado em ulissesflores.com. No DOI without operator's explicit authorization.",
+  "license": "GPL-3.0-or-later",
+  "keywords": ["pesquisas eleitorais", "eleições 2026", "Brasil", "acurácia de pesquisas", "agregação de pesquisas"]
+}

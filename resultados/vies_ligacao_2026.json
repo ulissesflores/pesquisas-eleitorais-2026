@@ -1,0 +1,152 @@
+{
+ "tabela": [
+  {
+   "instituto_2026": "AtlasIntel",
+   "base_historica": "AtlasIntel",
+   "casa_hist_pro_PT": 2.8676278511213247,
+   "n_hist": 58,
+   "erro_1T_2026_pro_Lula": 2.6778996859635242,
+   "casa_2T_2026_pro_Lula": -0.3141597109366926
+  },
+  {
+   "instituto_2026": "DataTrends",
+   "base_historica": null,
+   "casa_hist_pro_PT": null,
+   "n_hist": 0,
+   "erro_1T_2026_pro_Lula": null,
+   "casa_2T_2026_pro_Lula": -0.9677814217307853
+  },
+  {
+   "instituto_2026": "Datafolha",
+   "base_historica": "Datafolha",
+   "casa_hist_pro_PT": 0.3929458228164534,
+   "n_hist": 81,
+   "erro_1T_2026_pro_Lula": 3.3468669849528077,
+   "casa_2T_2026_pro_Lula": 0.14814380956696416
+  },
+  {
+   "instituto_2026": "Futura",
+   "base_historica": "Futura",
+   "casa_hist_pro_PT": -0.6201290663562562,
+   "n_hist": 22,
+   "erro_1T_2026_pro_Lula": -0.2443714515564892,
+   "casa_2T_2026_pro_Lula": 0.3230766810463278
+  },
+  {
+   "instituto_2026": "Gerp",
+   "base_historica": "Gerp",
+   "casa_hist_pro_PT": null,
+   "n_hist": 0,
+   "erro_1T_2026_pro_Lula": -0.155091499746149,
+   "casa_2T_2026_pro_Lula": -1.9347604055757686
+  },
+  {
+   "instituto_2026": "Ideia",
+   "base_historica": "Ideia Big Data",
+   "casa_hist_pro_PT": 0.021341314110186776,
+   "n_hist": 8,
+   "erro_1T_2026_pro_Lula": null,
+   "casa_2T_2026_pro_Lula": -0.15744807988949058
+  },
+  {
+   "instituto_2026": "Indexa",
+   "base_historica": null,
+   "casa_hist_pro_PT": null,
+   "n_hist": 0,
+   "erro_1T_2026_pro_Lula": null,
+   "casa_2T_2026_pro_Lula": 0.3592313477853842
+  },
+  {
+   "instituto_2026": "Instituto França",
+   "base_historica": "Instituto França",
+   "casa_hist_pro_PT": -3.238095984019401,
+   "n_hist": 5,
+   "erro_1T_2026_pro_Lula": 3.028427793620125,
+   "casa_2T_2026_pro_Lula": -0.023197973181736786
+  },
+  {
+   "instituto_2026": "Ipespe",
+   "base_historica": "Ipespe",
+   "casa_hist_pro_PT": 0.7190931608550477,
+   "n_hist": 29,
+   "erro_1T_2026_pro_Lula": null,
+   "casa_2T_2026_pro_Lula": -0.0677726888299152
+  },
+  {
+   "instituto_2026": "MDA",
+   "base_historica": "MDA",
+   "casa_hist_pro_PT": 0.36686787126150266,
+   "n_hist": 23,
+   "erro_1T_2026_pro_Lula": 4.184398883140339,
+   "casa_2T_2026_pro_Lula": 0.9134570846328615
+  },
+  {
+   "instituto_2026": "Nexus",
+   "base_historica": "Nexus",
+   "casa_hist_pro_PT": null,
+   "n_hist": 0,
+   "erro_1T_2026_pro_Lula": 4.203138785344819,
+   "casa_2T_2026_pro_Lula": 0.43010470259586975
+  },
+  {
+   "instituto_2026": "Palver",
+   "base_historica": "Palver",
+   "casa_hist_pro_PT": null,
+   "n_hist": 0,
+   "erro_1T_2026_pro_Lula": -1.2080124380807717,
+   "casa_2T_2026_pro_Lula": 0.38990850843274616
+  },
+  {
+   "instituto_2026": "PoderData",
+   "base_historica": "PoderData",
+   "casa_hist_pro_PT": 1.2333900621009968,
+   "n_hist": 8,
+   "erro_1T_2026_pro_Lula": 2.150573420505083,
+   "casa_2T_2026_pro_Lula": -0.1318880390690086
+  },
+  {
+   "instituto_2026": "Quaest",
+   "base_historica": "Quaest",
+   "casa_hist_pro_PT": 0.5586206931142337,
+   "n_hist": 19,
+   "erro_1T_2026_pro_Lula": 3.0331211053783527,
+   "casa_2T_2026_pro_Lula": 0.37774744444212827
+  },
+  {
+   "instituto_2026": "Real Time Big Data",
+   "base_historica": "Real Time Big Data",
+   "casa_hist_pro_PT": -0.2844364601726638,
+   "n_hist": 45,
+   "erro_1T_2026_pro_Lula": 3.8877730025322563,
+   "casa_2T_2026_pro_Lula": -1.1485917942272883
+  },
+  {
+   "instituto_2026": "Veritá",
+   "base_historica": "Veritá",
+   "casa_hist_pro_PT": -4.4790487350325385,
+   "n_hist": 53,
+   "erro_1T_2026_pro_Lula": 0.03807095550804718,
+   "casa_2T_2026_pro_Lula": 0.158029886409362
+  },
+  {
+   "instituto_2026": "Vox Brasil",
+   "base_historica": null,
+   "casa_hist_pro_PT": null,
+   "n_hist": 0,
+   "erro_1T_2026_pro_Lula": null,
+   "casa_2T_2026_pro_Lula": 1.6459006485290422
+  }
+ ],
+ "hist_x_1T": {
+  "n": 9,
+  "spearman": 0.18333333333333332
+ },
+ "hist_x_2T": {
+  "n": 11,
+  "spearman": -0.2545454545454545
+ },
+ "1T_x_2T": {
+  "n": 12,
+  "spearman": 0.23076923076923078
+ }
+}

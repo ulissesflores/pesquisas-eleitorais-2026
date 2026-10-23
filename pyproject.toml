@@ -1,0 +1,17 @@
+[project]
+name = "pesquisas-eleitorais-2026"
+version = "0.1.0"
+description = "Acurácia das pesquisas presidenciais brasileiras 1989-2026, direção do erro e cenários do 2º turno de 2026"
+requires-python = ">=3.11"
+license = "GPL-3.0-or-later"
+authors = [{ name = "Carlos Ulisses Flores" }]
+
+[tool.ruff]
+line-length = 130
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "B"]
+ignore = ["E741", "E501", "E731"]  # nomes curtos (l) e linhas longas de tabela são o estilo destes scripts
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

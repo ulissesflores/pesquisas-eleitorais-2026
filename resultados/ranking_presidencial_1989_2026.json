@@ -1,0 +1,834 @@
+{
+ "todos": {
+  "media_geral_abs": 3.4748387096774196,
+  "tabela": [
+   {
+    "linhagem": "Datafolha",
+    "nomes": [
+     "Datafolha"
+    ],
+    "n": 17,
+    "rel_medio": -0.7561320346320345,
+    "eleicoes": [
+     "1989/1T",
+     "1989/2T",
+     "1994/1T",
+     "1998/1T",
+     "2002/1T",
+     "2002/2T",
+     "2006/1T",
+     "2006/2T",
+     "2010/1T",
+     "2010/2T",
+     "2014/1T",
+     "2014/2T",
+     "2018/1T",
+     "2018/2T",
+     "2022/1T",
+     "2022/2T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 2.5088235294117647,
+    "erro_abs_encolhido": 2.6537258064516127,
+    "vies_medio_pro_direita": -2.1029411764705883,
+    "n_pro_direita": 3,
+    "n_pro_esquerda": 11,
+    "n_empate": 3,
+    "p_sinal": 0.057373046875
+   },
+   {
+    "linhagem": "Ibope->Ipec",
+    "nomes": [
+     "Ibope",
+     "Ipec"
+    ],
+    "n": 11,
+    "rel_medio": -0.7552792207792207,
+    "eleicoes": [
+     "2002/1T",
+     "2002/2T",
+     "2006/2T",
+     "2010/1T",
+     "2010/2T",
+     "2014/1T",
+     "2014/2T",
+     "2018/1T",
+     "2018/2T",
+     "2022/1T",
+     "2022/2T"
+    ],
+    "erro_abs_medio": 2.4572727272727275,
+    "erro_abs_encolhido": 2.6753225806451617,
+    "vies_medio_pro_direita": -2.4572727272727275,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 9,
+    "n_empate": 2,
+    "p_sinal": 0.00390625
+   },
+   {
+    "linhagem": "Futura",
+    "nomes": [
+     "Futura"
+    ],
+    "n": 3,
+    "rel_medio": -1.4758333333333324,
+    "eleicoes": [
+     "2022/1T",
+     "2022/2T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 2.0600000000000014,
+    "erro_abs_encolhido": 2.7674193548387107,
+    "vies_medio_pro_direita": -1.246666666666668,
+    "n_pro_direita": 1,
+    "n_pro_esquerda": 2,
+    "n_empate": 0,
+    "p_sinal": 1.0
+   },
+   {
+    "linhagem": "Gerp",
+    "nomes": [
+     "Gerp"
+    ],
+    "n": 2,
+    "rel_medio": -0.520075757575759,
+    "eleicoes": [
+     "2022/2T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 2.224999999999999,
+    "erro_abs_encolhido": 2.9749032258064516,
+    "vies_medio_pro_direita": 0.8950000000000009,
+    "n_pro_direita": 1,
+    "n_pro_esquerda": 1,
+    "n_empate": 0,
+    "p_sinal": 1.0
+   },
+   {
+    "linhagem": "Atlas Político->AtlasIntel",
+    "nomes": [
+     "AtlasIntel"
+    ],
+    "n": 3,
+    "rel_medio": -0.9865656565656571,
+    "eleicoes": [
+     "2022/1T",
+     "2022/2T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 2.51,
+    "erro_abs_encolhido": 2.9924193548387095,
+    "vies_medio_pro_direita": -2.51,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 3,
+    "n_empate": 0,
+    "p_sinal": 0.25
+   },
+   {
+    "linhagem": "Veritá",
+    "nomes": [
+     "Veritá"
+    ],
+    "n": 5,
+    "rel_medio": -1.0128333333333335,
+    "eleicoes": [
+     "2014/2T",
+     "2018/1T",
+     "2022/1T",
+     "2022/2T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 2.89,
+    "erro_abs_encolhido": 3.1093145161290323,
+    "vies_medio_pro_direita": 2.8779999999999997,
+    "n_pro_direita": 4,
+    "n_pro_esquerda": 0,
+    "n_empate": 1,
+    "p_sinal": 0.125
+   },
+   {
+    "linhagem": "Quaest (Genial/Quaest)",
+    "nomes": [
+     "Quaest"
+    ],
+    "n": 3,
+    "rel_medio": -0.6999494949494949,
+    "eleicoes": [
+     "2022/1T",
+     "2022/2T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 2.7766666666666673,
+    "erro_abs_encolhido": 3.125752688172043,
+    "vies_medio_pro_direita": -2.7766666666666673,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 3,
+    "n_empate": 0,
+    "p_sinal": 0.25
+   },
+   {
+    "linhagem": "MDA",
+    "nomes": [
+     "CNT/MDA",
+     "MDA (CNT)"
+    ],
+    "n": 7,
+    "rel_medio": -1.1553058132343847,
+    "eleicoes": [
+     "2014/1T",
+     "2014/2T",
+     "2018/1T",
+     "2018/2T",
+     "2022/1T",
+     "2022/2T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 3.142857142857143,
+    "erro_abs_encolhido": 3.242451612903226,
+    "vies_medio_pro_direita": -2.1228571428571428,
+    "n_pro_direita": 2,
+    "n_pro_esquerda": 4,
+    "n_empate": 1,
+    "p_sinal": 0.6875
+   },
+   {
+    "linhagem": "Vox Populi",
+    "nomes": [
+     "Vox Populi"
+    ],
+    "n": 8,
+    "rel_medio": 0.32271130952380955,
+    "eleicoes": [
+     "2002/1T",
+     "2002/2T",
+     "2010/1T",
+     "2010/2T",
+     "2014/1T",
+     "2014/2T",
+     "2018/1T",
+     "2018/2T"
+    ],
+    "erro_abs_medio": 3.47,
+    "erro_abs_encolhido": 3.471319648093842,
+    "vies_medio_pro_direita": -3.47,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 8,
+    "n_empate": 0,
+    "p_sinal": 0.0078125
+   },
+   {
+    "linhagem": "Paraná Pesquisas",
+    "nomes": [
+     "Paraná Pesquisas"
+    ],
+    "n": 4,
+    "rel_medio": -0.42317261904761916,
+    "eleicoes": [
+     "2018/1T",
+     "2018/2T",
+     "2022/1T",
+     "2022/2T"
+    ],
+    "erro_abs_medio": 3.575,
+    "erro_abs_encolhido": 3.532073732718894,
+    "vies_medio_pro_direita": -0.5850000000000002,
+    "n_pro_direita": 1,
+    "n_pro_esquerda": 2,
+    "n_empate": 1,
+    "p_sinal": 1.0
+   },
+   {
+    "linhagem": "Real Time Big Data",
+    "nomes": [
+     "Real Time Big Data"
+    ],
+    "n": 3,
+    "rel_medio": -0.18799134199134185,
+    "eleicoes": [
+     "2018/1T",
+     "2018/2T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 4.180000000000001,
+    "erro_abs_encolhido": 3.8274193548387103,
+    "vies_medio_pro_direita": -4.180000000000001,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 2,
+    "n_empate": 1,
+    "p_sinal": 0.5
+   },
+   {
+    "linhagem": "Sensus",
+    "nomes": [
+     "CNT/Sensus"
+    ],
+    "n": 8,
+    "rel_medio": 1.7853541666666666,
+    "eleicoes": [
+     "2002/1T",
+     "2002/2T",
+     "2006/1T",
+     "2006/2T",
+     "2010/1T",
+     "2010/2T",
+     "2014/1T",
+     "2014/2T"
+    ],
+    "erro_abs_medio": 4.15625,
+    "erro_abs_encolhido": 3.970410557184751,
+    "vies_medio_pro_direita": -3.22125,
+    "n_pro_direita": 1,
+    "n_pro_esquerda": 7,
+    "n_empate": 0,
+    "p_sinal": 0.0703125
+   },
+   {
+    "linhagem": "Ipespe",
+    "nomes": [
+     "Ipespe"
+    ],
+    "n": 4,
+    "rel_medio": 0.563625,
+    "eleicoes": [
+     "2018/1T",
+     "2018/2T",
+     "2022/1T",
+     "2022/2T"
+    ],
+    "erro_abs_medio": 4.5225,
+    "erro_abs_encolhido": 4.073502304147466,
+    "vies_medio_pro_direita": -3.0875,
+    "n_pro_direita": 1,
+    "n_pro_esquerda": 3,
+    "n_empate": 0,
+    "p_sinal": 0.625
+   },
+   {
+    "linhagem": "Brasmarket",
+    "nomes": [
+     "Brasmarket"
+    ],
+    "n": 2,
+    "rel_medio": 2.69625,
+    "eleicoes": [
+     "2022/1T",
+     "2022/2T"
+    ],
+    "erro_abs_medio": 5.815,
+    "erro_abs_encolhido": 4.410903225806452,
+    "vies_medio_pro_direita": 5.815,
+    "n_pro_direita": 2,
+    "n_pro_esquerda": 0,
+    "n_empate": 0,
+    "p_sinal": 0.5
+   },
+   {
+    "linhagem": "DataPoder360->PoderData",
+    "nomes": [
+     "DataPoder360",
+     "PoderData"
+    ],
+    "n": 4,
+    "rel_medio": 1.7680757575757575,
+    "eleicoes": [
+     "2018/1T",
+     "2022/1T",
+     "2022/2T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 5.835,
+    "erro_abs_encolhido": 4.823502304147466,
+    "vies_medio_pro_direita": -5.835,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 4,
+    "n_empate": 0,
+    "p_sinal": 0.125
+   },
+   {
+    "linhagem": "FSB",
+    "nomes": [
+     "FSB"
+    ],
+    "n": 3,
+    "rel_medio": 2.6658968253968247,
+    "eleicoes": [
+     "2018/1T",
+     "2018/2T",
+     "2022/1T"
+    ],
+    "erro_abs_medio": 7.136666666666667,
+    "erro_abs_encolhido": 5.305752688172043,
+    "vies_medio_pro_direita": -4.043333333333333,
+    "n_pro_direita": 1,
+    "n_pro_esquerda": 2,
+    "n_empate": 0,
+    "p_sinal": 1.0
+   }
+  ]
+ },
+ "2turno": {
+  "media_geral_abs": 1.9556410256410257,
+  "tabela": [
+   {
+    "linhagem": "Datafolha",
+    "nomes": [
+     "Datafolha"
+    ],
+    "n": 7,
+    "rel_medio": -1.1792380952380952,
+    "eleicoes": [
+     "1989/2T",
+     "2002/2T",
+     "2006/2T",
+     "2010/2T",
+     "2014/2T",
+     "2018/2T",
+     "2022/2T"
+    ],
+    "erro_abs_medio": 0.9271428571428572,
+    "erro_abs_encolhido": 1.2356923076923076,
+    "vies_medio_pro_direita": -0.75,
+    "n_pro_direita": 1,
+    "n_pro_esquerda": 3,
+    "n_empate": 3,
+    "p_sinal": 0.625
+   },
+   {
+    "linhagem": "Ibope->Ipec",
+    "nomes": [
+     "Ibope",
+     "Ipec"
+    ],
+    "n": 6,
+    "rel_medio": -0.9054285714285714,
+    "eleicoes": [
+     "2002/2T",
+     "2006/2T",
+     "2010/2T",
+     "2014/2T",
+     "2018/2T",
+     "2022/2T"
+    ],
+    "erro_abs_medio": 1.16,
+    "erro_abs_encolhido": 1.4252136752136753,
+    "vies_medio_pro_direita": -1.16,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 4,
+    "n_empate": 2,
+    "p_sinal": 0.125
+   },
+   {
+    "linhagem": "MDA",
+    "nomes": [
+     "CNT/MDA"
+    ],
+    "n": 3,
+    "rel_medio": -1.1719761904761905,
+    "eleicoes": [
+     "2014/2T",
+     "2018/2T",
+     "2022/2T"
+    ],
+    "erro_abs_medio": 1.2533333333333334,
+    "erro_abs_encolhido": 1.6044871794871796,
+    "vies_medio_pro_direita": 1.1266666666666667,
+    "n_pro_direita": 2,
+    "n_pro_esquerda": 0,
+    "n_empate": 1,
+    "p_sinal": 0.5
+   },
+   {
+    "linhagem": "Ipespe",
+    "nomes": [
+     "Ipespe"
+    ],
+    "n": 2,
+    "rel_medio": 0.27333333333333354,
+    "eleicoes": [
+     "2018/2T",
+     "2022/2T"
+    ],
+    "erro_abs_medio": 2.4850000000000003,
+    "erro_abs_encolhido": 2.1673846153846155,
+    "vies_medio_pro_direita": 0.385,
+    "n_pro_direita": 1,
+    "n_pro_esquerda": 1,
+    "n_empate": 0,
+    "p_sinal": 1.0
+   },
+   {
+    "linhagem": "Paraná Pesquisas",
+    "nomes": [
+     "Paraná Pesquisas"
+    ],
+    "n": 2,
+    "rel_medio": 0.8989880952380951,
+    "eleicoes": [
+     "2018/2T",
+     "2022/2T"
+    ],
+    "erro_abs_medio": 2.9899999999999998,
+    "erro_abs_encolhido": 2.3693846153846154,
+    "vies_medio_pro_direita": 2.9899999999999998,
+    "n_pro_direita": 1,
+    "n_pro_esquerda": 0,
+    "n_empate": 1,
+    "p_sinal": 1.0
+   },
+   {
+    "linhagem": "Vox Populi",
+    "nomes": [
+     "Vox Populi"
+    ],
+    "n": 4,
+    "rel_medio": 0.7003809523809523,
+    "eleicoes": [
+     "2002/2T",
+     "2010/2T",
+     "2014/2T",
+     "2018/2T"
+    ],
+    "erro_abs_medio": 2.6925,
+    "erro_abs_encolhido": 2.3767032967032966,
+    "vies_medio_pro_direita": -2.6925,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 4,
+    "n_empate": 0,
+    "p_sinal": 0.125
+   },
+   {
+    "linhagem": "Sensus",
+    "nomes": [
+     "CNT/Sensus"
+    ],
+    "n": 4,
+    "rel_medio": 1.5371666666666668,
+    "eleicoes": [
+     "2002/2T",
+     "2006/2T",
+     "2010/2T",
+     "2014/2T"
+    ],
+    "erro_abs_medio": 2.7775,
+    "erro_abs_encolhido": 2.425274725274725,
+    "vies_medio_pro_direita": -0.9075,
+    "n_pro_direita": 1,
+    "n_pro_esquerda": 3,
+    "n_empate": 0,
+    "p_sinal": 0.625
+   },
+   {
+    "linhagem": "Veritá",
+    "nomes": [
+     "Veritá"
+    ],
+    "n": 2,
+    "rel_medio": 1.4984166666666665,
+    "eleicoes": [
+     "2014/2T",
+     "2022/2T"
+    ],
+    "erro_abs_medio": 3.36,
+    "erro_abs_encolhido": 2.517384615384615,
+    "vies_medio_pro_direita": 3.36,
+    "n_pro_direita": 2,
+    "n_pro_esquerda": 0,
+    "n_empate": 0,
+    "p_sinal": 0.5
+   }
+  ]
+ },
+ "1turno": {
+  "media_geral_abs": 4.572037037037037,
+  "tabela": [
+   {
+    "linhagem": "Veritá",
+    "nomes": [
+     "Veritá"
+    ],
+    "n": 3,
+    "rel_medio": -2.6870000000000003,
+    "eleicoes": [
+     "2018/1T",
+     "2022/1T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 2.576666666666667,
+    "erro_abs_encolhido": 3.5743518518518522,
+    "vies_medio_pro_direita": 2.556666666666666,
+    "n_pro_direita": 2,
+    "n_pro_esquerda": 0,
+    "n_empate": 1,
+    "p_sinal": 0.5
+   },
+   {
+    "linhagem": "Futura",
+    "nomes": [
+     "Futura"
+    ],
+    "n": 2,
+    "rel_medio": -1.9054166666666652,
+    "eleicoes": [
+     "2022/1T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 2.480000000000002,
+    "erro_abs_encolhido": 3.735222222222223,
+    "vies_medio_pro_direita": -2.480000000000002,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 2,
+    "n_empate": 0,
+    "p_sinal": 0.5
+   },
+   {
+    "linhagem": "Atlas Político->AtlasIntel",
+    "nomes": [
+     "AtlasIntel"
+    ],
+    "n": 2,
+    "rel_medio": -1.8648484848484856,
+    "eleicoes": [
+     "2022/1T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 2.5149999999999997,
+    "erro_abs_encolhido": 3.7492222222222225,
+    "vies_medio_pro_direita": -2.5149999999999997,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 2,
+    "n_empate": 0,
+    "p_sinal": 0.5
+   },
+   {
+    "linhagem": "Datafolha",
+    "nomes": [
+     "Datafolha"
+    ],
+    "n": 10,
+    "rel_medio": -0.3934696969696967,
+    "eleicoes": [
+     "1989/1T",
+     "1994/1T",
+     "1998/1T",
+     "2002/1T",
+     "2006/1T",
+     "2010/1T",
+     "2014/1T",
+     "2018/1T",
+     "2022/1T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 3.616,
+    "erro_abs_encolhido": 3.836623931623932,
+    "vies_medio_pro_direita": -3.0500000000000003,
+    "n_pro_direita": 2,
+    "n_pro_esquerda": 8,
+    "n_empate": 0,
+    "p_sinal": 0.109375
+   },
+   {
+    "linhagem": "Quaest (Genial/Quaest)",
+    "nomes": [
+     "Quaest"
+    ],
+    "n": 2,
+    "rel_medio": -0.676590909090909,
+    "eleicoes": [
+     "2022/1T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 3.6150000000000007,
+    "erro_abs_encolhido": 4.189222222222223,
+    "vies_medio_pro_direita": -3.6150000000000007,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 2,
+    "n_empate": 0,
+    "p_sinal": 0.5
+   },
+   {
+    "linhagem": "Ibope->Ipec",
+    "nomes": [
+     "Ibope",
+     "Ipec"
+    ],
+    "n": 5,
+    "rel_medio": -0.5750999999999998,
+    "eleicoes": [
+     "2002/1T",
+     "2010/1T",
+     "2014/1T",
+     "2018/1T",
+     "2022/1T"
+    ],
+    "erro_abs_medio": 4.014,
+    "erro_abs_encolhido": 4.223263888888889,
+    "vies_medio_pro_direita": -4.014,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 5,
+    "n_empate": 0,
+    "p_sinal": 0.0625
+   },
+   {
+    "linhagem": "Vox Populi",
+    "nomes": [
+     "Vox Populi"
+    ],
+    "n": 4,
+    "rel_medio": -0.054958333333333165,
+    "eleicoes": [
+     "2002/1T",
+     "2010/1T",
+     "2014/1T",
+     "2018/1T"
+    ],
+    "erro_abs_medio": 4.2475000000000005,
+    "erro_abs_encolhido": 4.386587301587302,
+    "vies_medio_pro_direita": -4.2475000000000005,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 4,
+    "n_empate": 0,
+    "p_sinal": 0.125
+   },
+   {
+    "linhagem": "Paraná Pesquisas",
+    "nomes": [
+     "Paraná Pesquisas"
+    ],
+    "n": 2,
+    "rel_medio": -1.7453333333333334,
+    "eleicoes": [
+     "2018/1T",
+     "2022/1T"
+    ],
+    "erro_abs_medio": 4.16,
+    "erro_abs_encolhido": 4.407222222222223,
+    "vies_medio_pro_direita": -4.16,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 2,
+    "n_empate": 0,
+    "p_sinal": 0.5
+   },
+   {
+    "linhagem": "MDA",
+    "nomes": [
+     "CNT/MDA",
+     "MDA (CNT)"
+    ],
+    "n": 4,
+    "rel_medio": -1.1428030303030305,
+    "eleicoes": [
+     "2014/1T",
+     "2018/1T",
+     "2022/1T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 4.5600000000000005,
+    "erro_abs_encolhido": 4.56515873015873,
+    "vies_medio_pro_direita": -4.5600000000000005,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 4,
+    "n_empate": 0,
+    "p_sinal": 0.125
+   },
+   {
+    "linhagem": "Sensus",
+    "nomes": [
+     "CNT/Sensus"
+    ],
+    "n": 4,
+    "rel_medio": 2.0335416666666664,
+    "eleicoes": [
+     "2002/1T",
+     "2006/1T",
+     "2010/1T",
+     "2014/1T"
+    ],
+    "erro_abs_medio": 5.535,
+    "erro_abs_encolhido": 5.122301587301587,
+    "vies_medio_pro_direita": -5.535,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 4,
+    "n_empate": 0,
+    "p_sinal": 0.125
+   },
+   {
+    "linhagem": "Real Time Big Data",
+    "nomes": [
+     "Real Time Big Data"
+    ],
+    "n": 2,
+    "rel_medio": 0.9787272727272729,
+    "eleicoes": [
+     "2018/1T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 6.030000000000001,
+    "erro_abs_encolhido": 5.155222222222223,
+    "vies_medio_pro_direita": -6.030000000000001,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 2,
+    "n_empate": 0,
+    "p_sinal": 0.5
+   },
+   {
+    "linhagem": "Ipespe",
+    "nomes": [
+     "Ipespe"
+    ],
+    "n": 2,
+    "rel_medio": 0.8539166666666667,
+    "eleicoes": [
+     "2018/1T",
+     "2022/1T"
+    ],
+    "erro_abs_medio": 6.5600000000000005,
+    "erro_abs_encolhido": 5.367222222222223,
+    "vies_medio_pro_direita": -6.5600000000000005,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 2,
+    "n_empate": 0,
+    "p_sinal": 0.5
+   },
+   {
+    "linhagem": "DataPoder360->PoderData",
+    "nomes": [
+     "DataPoder360",
+     "PoderData"
+    ],
+    "n": 3,
+    "rel_medio": 2.3571565656565654,
+    "eleicoes": [
+     "2018/1T",
+     "2022/1T",
+     "2026/1T"
+    ],
+    "erro_abs_medio": 7.183333333333334,
+    "erro_abs_encolhido": 5.877685185185186,
+    "vies_medio_pro_direita": -7.183333333333334,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 3,
+    "n_empate": 0,
+    "p_sinal": 0.25
+   },
+   {
+    "linhagem": "FSB",
+    "nomes": [
+     "FSB"
+    ],
+    "n": 2,
+    "rel_medio": 2.882416666666666,
+    "eleicoes": [
+     "2018/1T",
+     "2022/1T"
+    ],
+    "erro_abs_medio": 8.385,
+    "erro_abs_encolhido": 6.097222222222222,
+    "vies_medio_pro_direita": -8.385,
+    "n_pro_direita": 0,
+    "n_pro_esquerda": 2,
+    "n_empate": 0,
+    "p_sinal": 0.5
+   }
+  ]
+ }
+}

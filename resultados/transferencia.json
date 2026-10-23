@@ -1,0 +1,13 @@
+{
+ "nota": "Zema: só PoderData/Aya; Demais: suposição do autor (15% Flávio, 55% Lula), igual nos dois cenários",
+ "Quaest 21/10": {
+  "ganho_flavio": 4261834.11,
+  "ganho_lula": 3047375.0,
+  "fatia_flavio": 51.4661645519987
+ },
+ "PoderData/Aya": {
+  "ganho_flavio": 4974728.37,
+  "ganho_lula": 2271072.55,
+  "fatia_flavio": 52.10211868380893
+ }
+}

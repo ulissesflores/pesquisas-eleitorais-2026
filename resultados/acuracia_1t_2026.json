@@ -1,0 +1,609 @@
+{
+ "ultima_por_instituto": [
+  {
+   "instituto": "Veritá",
+   "registro": "BR-04522/2026",
+   "campo": "2026-09-26 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 40500,
+   "confianca": "95%",
+   "contratantes": [
+    "INSTITUTO VERITA LTDA"
+   ],
+   "margem": "1",
+   "origem": "válidos com decimais só na compilação do Times Brasil; o instituto divulgou 47/45 inteiros",
+   "flavio": 47.0,
+   "lula": 45.2,
+   "erro_flavio": -0.030000000000001137,
+   "erro_lula": 0.04000000000000625,
+   "m3": 0.035000000000003695,
+   "m5": -0.07000000000000739,
+   "A": -0.001523441803622538,
+   "erro_bipartidario_flavio": -0.03807095550804718
+  },
+  {
+   "instituto": "Gerp",
+   "registro": "BR-00509/2026",
+   "campo": "2026-09-30 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 2400,
+   "confianca": "95,55%",
+   "contratantes": [
+    "GERP MERCADOLOGIA LTDA"
+   ],
+   "margem": "2,04",
+   "origem": "válidos publicados pelo instituto (relatório Gerp, campo 30/9-2/10)",
+   "flavio": 46.0,
+   "lula": 44.0,
+   "erro_flavio": -1.0300000000000011,
+   "erro_lula": -1.1599999999999966,
+   "m3": 1.0949999999999989,
+   "m5": 0.12999999999999545,
+   "A": 0.0038778058953381636,
+   "erro_bipartidario_flavio": 0.09690132696966458
+  },
+  {
+   "instituto": "Futura",
+   "registro": "BR-02431/2026",
+   "campo": "2026-09-29 a 2026-10-03",
+   "dias_antes": 1,
+   "n": 2000,
+   "confianca": "95%",
+   "contratantes": [
+    "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA"
+   ],
+   "margem": "2,2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 44.8,
+   "lula": 42.6,
+   "erro_flavio": -2.230000000000004,
+   "erro_lula": -2.559999999999995,
+   "m3": 2.3949999999999996,
+   "m5": 0.3299999999999912,
+   "A": 0.009779929470119074,
+   "erro_bipartidario_flavio": 0.2443714515564892
+  },
+  {
+   "instituto": "Palver",
+   "registro": "BR-00198/2026",
+   "campo": "2026-09-30 a 2026-10-03",
+   "dias_antes": 1,
+   "n": 5000,
+   "confianca": "95%",
+   "contratantes": [
+    "PALVER CONSULTORIA E DESENVOLVIMENTO TECNOLOGICO LTDA."
+   ],
+   "margem": "4",
+   "origem": "percentuais publicados pelo instituto, que não divulga válidos",
+   "flavio": 47.0,
+   "lula": 43.0,
+   "erro_flavio": -0.030000000000001137,
+   "erro_lula": -2.1599999999999966,
+   "m3": 1.0949999999999989,
+   "m5": 2.1299999999999955,
+   "A": 0.04837352934100061,
+   "erro_bipartidario_flavio": 1.2080124380807717
+  },
+  {
+   "instituto": "Quaest",
+   "registro": "BR-02197/2026",
+   "campo": "2026-10-02 a 2026-10-03",
+   "dias_antes": 1,
+   "n": 3702,
+   "confianca": "95%",
+   "contratantes": [
+    "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "EDITORA GLOBO S/A / EDITORA GLOBO"
+   ],
+   "margem": "2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 45.0,
+   "lula": 46.0,
+   "erro_flavio": -2.030000000000001,
+   "erro_lula": 0.8400000000000034,
+   "m3": 1.4350000000000023,
+   "m5": -2.8700000000000045,
+   "A": -0.06255286339427076,
+   "erro_bipartidario_flavio": -1.5636603335919972
+  },
+  {
+   "instituto": "PoderData",
+   "registro": "BR-03519/2026",
+   "campo": "2026-09-30 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 4000,
+   "confianca": "95%",
+   "contratantes": [
+    "PODERDATA PESQUISA, JORNALISMO E COMUNICACAO LTDA"
+   ],
+   "margem": "2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 43.0,
+   "lula": 45.0,
+   "erro_flavio": -4.030000000000001,
+   "erro_lula": -0.1599999999999966,
+   "m3": 2.094999999999999,
+   "m5": -3.8700000000000045,
+   "A": -0.08603633075225277,
+   "erro_bipartidario_flavio": -2.150573420505083
+  },
+  {
+   "instituto": "AtlasIntel",
+   "registro": "BR-00999/2026",
+   "campo": "2026-09-27 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 5000,
+   "confianca": "95%",
+   "contratantes": [
+    "ATLASINTEL TECNOLOGIA DE DADOS LTDA"
+   ],
+   "margem": "1,0",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 44.1,
+   "lula": 47.0,
+   "erro_flavio": -2.9299999999999997,
+   "erro_lula": 1.8400000000000034,
+   "m3": 2.3850000000000016,
+   "m5": -4.770000000000003,
+   "A": -0.10426177593275371,
+   "erro_bipartidario_flavio": -2.605867303351104
+  },
+  {
+   "instituto": "Datafolha",
+   "registro": "BR-01708/2026",
+   "campo": "2026-10-03 a 2026-10-03",
+   "dias_antes": 1,
+   "n": 4006,
+   "confianca": "95%",
+   "contratantes": [
+    "EMPRESA FOLHA DA MANHA S.A.",
+    "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA"
+   ],
+   "margem": "2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 42.0,
+   "lula": 45.0,
+   "erro_flavio": -5.030000000000001,
+   "erro_lula": -0.1599999999999966,
+   "m3": 2.594999999999999,
+   "m5": -4.8700000000000045,
+   "A": -0.10956682816244691,
+   "erro_bipartidario_flavio": -2.7383477151759337
+  },
+  {
+   "instituto": "Instituto França",
+   "registro": "BR-02928/2026",
+   "campo": "2026-09-28 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 2000,
+   "confianca": "95%",
+   "contratantes": [
+    "INSTITUTO FRANCA DE PESQUISAS LTDA"
+   ],
+   "margem": "2,2",
+   "origem": "recalculado dos totais publicados (o instituto não publica válidos)",
+   "flavio": 40.5,
+   "lula": 43.9,
+   "erro_flavio": -6.530000000000001,
+   "erro_lula": -1.259999999999998,
+   "m3": 3.8949999999999996,
+   "m5": -5.270000000000003,
+   "A": -0.12118630264412768,
+   "erro_bipartidario_flavio": -3.028427793620125
+  },
+  {
+   "instituto": "Nexus",
+   "registro": "BR-07557/2026",
+   "campo": "2026-09-25 a 2026-09-27",
+   "dias_antes": 7,
+   "n": 2000,
+   "confianca": "95%",
+   "contratantes": [
+    "BANCO BTG PACTUAL S.A."
+   ],
+   "margem": "2",
+   "origem": "válidos publicados pelo instituto (BTG/Nexus)",
+   "flavio": 39.0,
+   "lula": 44.0,
+   "erro_flavio": -8.030000000000001,
+   "erro_lula": -1.1599999999999966,
+   "m3": 4.594999999999999,
+   "m5": -6.8700000000000045,
+   "A": -0.16120194446411035,
+   "erro_bipartidario_flavio": -4.026257976912532
+  },
+  {
+   "instituto": "Real Time Big Data",
+   "registro": "BR-09503/2026",
+   "campo": "2026-09-26 a 2026-09-30",
+   "dias_antes": 4,
+   "n": 2000,
+   "confianca": "95%",
+   "contratantes": [
+    "REAL TIME MIDIA LTDA"
+   ],
+   "margem": "2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 41.0,
+   "lula": 46.0,
+   "erro_flavio": -6.030000000000001,
+   "erro_lula": 0.8400000000000034,
+   "m3": 3.4350000000000023,
+   "m5": -6.8700000000000045,
+   "A": -0.15564328646028275,
+   "erro_bipartidario_flavio": -3.8877730025322563
+  },
+  {
+   "instituto": "MDA",
+   "registro": "BR-04756/2026",
+   "campo": "2026-09-29 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 2002,
+   "confianca": "95%",
+   "contratantes": [
+    "CONFEDERACAO NACIONAL DO TRANSPORTE"
+   ],
+   "margem": "2,2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 42.1,
+   "lula": 47.8,
+   "erro_flavio": -4.93,
+   "erro_lula": 2.6400000000000006,
+   "m3": 3.785,
+   "m5": -7.57,
+   "A": -0.16755185548457002,
+   "erro_bipartidario_flavio": -4.184398883140339
+  }
+ ],
+ "todas": [
+  {
+   "instituto": "Veritá",
+   "registro": "BR-04522/2026",
+   "campo": "2026-09-26 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 40500,
+   "confianca": "95%",
+   "contratantes": [
+    "INSTITUTO VERITA LTDA"
+   ],
+   "margem": "1",
+   "origem": "válidos com decimais só na compilação do Times Brasil; o instituto divulgou 47/45 inteiros",
+   "flavio": 47.0,
+   "lula": 45.2,
+   "erro_flavio": -0.030000000000001137,
+   "erro_lula": 0.04000000000000625,
+   "m3": 0.035000000000003695,
+   "m5": -0.07000000000000739,
+   "A": -0.001523441803622538,
+   "erro_bipartidario_flavio": -0.03807095550804718
+  },
+  {
+   "instituto": "Quaest",
+   "registro": "BR-02197/2026",
+   "campo": "2026-10-02 a 2026-10-03",
+   "dias_antes": 1,
+   "n": 3702,
+   "confianca": "95%",
+   "contratantes": [
+    "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "EDITORA GLOBO S/A / EDITORA GLOBO"
+   ],
+   "margem": "2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 45.0,
+   "lula": 46.0,
+   "erro_flavio": -2.030000000000001,
+   "erro_lula": 0.8400000000000034,
+   "m3": 1.4350000000000023,
+   "m5": -2.8700000000000045,
+   "A": -0.06255286339427076,
+   "erro_bipartidario_flavio": -1.5636603335919972
+  },
+  {
+   "instituto": "Gerp",
+   "registro": "BR-00509/2026",
+   "campo": "2026-09-30 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 2400,
+   "confianca": "95,55%",
+   "contratantes": [
+    "GERP MERCADOLOGIA LTDA"
+   ],
+   "margem": "2,04",
+   "origem": "válidos publicados pelo instituto (relatório Gerp, campo 30/9-2/10)",
+   "flavio": 46.0,
+   "lula": 44.0,
+   "erro_flavio": -1.0300000000000011,
+   "erro_lula": -1.1599999999999966,
+   "m3": 1.0949999999999989,
+   "m5": 0.12999999999999545,
+   "A": 0.0038778058953381636,
+   "erro_bipartidario_flavio": 0.09690132696966458
+  },
+  {
+   "instituto": "PoderData",
+   "registro": "BR-03519/2026",
+   "campo": "2026-09-30 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 4000,
+   "confianca": "95%",
+   "contratantes": [
+    "PODERDATA PESQUISA, JORNALISMO E COMUNICACAO LTDA"
+   ],
+   "margem": "2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 43.0,
+   "lula": 45.0,
+   "erro_flavio": -4.030000000000001,
+   "erro_lula": -0.1599999999999966,
+   "m3": 2.094999999999999,
+   "m5": -3.8700000000000045,
+   "A": -0.08603633075225277,
+   "erro_bipartidario_flavio": -2.150573420505083
+  },
+  {
+   "instituto": "AtlasIntel",
+   "registro": "BR-00999/2026",
+   "campo": "2026-09-27 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 5000,
+   "confianca": "95%",
+   "contratantes": [
+    "ATLASINTEL TECNOLOGIA DE DADOS LTDA"
+   ],
+   "margem": "1,0",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 44.1,
+   "lula": 47.0,
+   "erro_flavio": -2.9299999999999997,
+   "erro_lula": 1.8400000000000034,
+   "m3": 2.3850000000000016,
+   "m5": -4.770000000000003,
+   "A": -0.10426177593275371,
+   "erro_bipartidario_flavio": -2.605867303351104
+  },
+  {
+   "instituto": "AtlasIntel",
+   "registro": "BR-04391/2026",
+   "campo": "2026-09-23 a 2026-09-28",
+   "dias_antes": 6,
+   "n": 5000,
+   "confianca": "95%",
+   "contratantes": [
+    "ATLASINTEL TECNOLOGIA DE DADOS LTDA"
+   ],
+   "margem": "1,0",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 43.1,
+   "lula": 46.2,
+   "erro_flavio": -3.9299999999999997,
+   "erro_lula": 1.0400000000000063,
+   "m3": 2.485000000000003,
+   "m5": -4.970000000000006,
+   "A": -0.11003075765348655,
+   "erro_bipartidario_flavio": -2.7499320685759443
+  },
+  {
+   "instituto": "Palver",
+   "registro": "BR-00198/2026",
+   "campo": "2026-09-30 a 2026-10-03",
+   "dias_antes": 1,
+   "n": 5000,
+   "confianca": "95%",
+   "contratantes": [
+    "PALVER CONSULTORIA E DESENVOLVIMENTO TECNOLOGICO LTDA."
+   ],
+   "margem": "4",
+   "origem": "percentuais publicados pelo instituto, que não divulga válidos",
+   "flavio": 47.0,
+   "lula": 43.0,
+   "erro_flavio": -0.030000000000001137,
+   "erro_lula": -2.1599999999999966,
+   "m3": 1.0949999999999989,
+   "m5": 2.1299999999999955,
+   "A": 0.04837352934100061,
+   "erro_bipartidario_flavio": 1.2080124380807717
+  },
+  {
+   "instituto": "Futura",
+   "registro": "BR-02431/2026",
+   "campo": "2026-09-29 a 2026-10-03",
+   "dias_antes": 1,
+   "n": 2000,
+   "confianca": "95%",
+   "contratantes": [
+    "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA"
+   ],
+   "margem": "2,2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 44.8,
+   "lula": 42.6,
+   "erro_flavio": -2.230000000000004,
+   "erro_lula": -2.559999999999995,
+   "m3": 2.3949999999999996,
+   "m5": 0.3299999999999912,
+   "A": 0.009779929470119074,
+   "erro_bipartidario_flavio": 0.2443714515564892
+  },
+  {
+   "instituto": "Datafolha",
+   "registro": "BR-01708/2026",
+   "campo": "2026-10-03 a 2026-10-03",
+   "dias_antes": 1,
+   "n": 4006,
+   "confianca": "95%",
+   "contratantes": [
+    "EMPRESA FOLHA DA MANHA S.A.",
+    "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA"
+   ],
+   "margem": "2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 42.0,
+   "lula": 45.0,
+   "erro_flavio": -5.030000000000001,
+   "erro_lula": -0.1599999999999966,
+   "m3": 2.594999999999999,
+   "m5": -4.8700000000000045,
+   "A": -0.10956682816244691,
+   "erro_bipartidario_flavio": -2.7383477151759337
+  },
+  {
+   "instituto": "MDA",
+   "registro": "BR-04756/2026",
+   "campo": "2026-09-29 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 2002,
+   "confianca": "95%",
+   "contratantes": [
+    "CONFEDERACAO NACIONAL DO TRANSPORTE"
+   ],
+   "margem": "2,2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 42.1,
+   "lula": 47.8,
+   "erro_flavio": -4.93,
+   "erro_lula": 2.6400000000000006,
+   "m3": 3.785,
+   "m5": -7.57,
+   "A": -0.16755185548457002,
+   "erro_bipartidario_flavio": -4.184398883140339
+  },
+  {
+   "instituto": "Gerp",
+   "registro": "BR-03929/2026",
+   "campo": "2026-09-23 a 2026-09-26",
+   "dias_antes": 8,
+   "n": 2400,
+   "confianca": "95,55%",
+   "contratantes": [
+    "GERP MERCADOLOGIA LTDA"
+   ],
+   "margem": "2,04",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 44.0,
+   "lula": 42.0,
+   "erro_flavio": -3.030000000000001,
+   "erro_lula": -3.1599999999999966,
+   "m3": 3.094999999999999,
+   "m5": 0.12999999999999545,
+   "A": 0.005946058959397286,
+   "erro_bipartidario_flavio": 0.14858091353296743
+  },
+  {
+   "instituto": "Datafolha",
+   "registro": "BR-08039/2026",
+   "campo": "2026-09-28 a 2026-10-01",
+   "dias_antes": 3,
+   "n": 2506,
+   "confianca": "95%",
+   "contratantes": [
+    "EMPRESA FOLHA DA MANHA S.A.",
+    "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA"
+   ],
+   "margem": "2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 40.0,
+   "lula": 45.0,
+   "erro_flavio": -7.030000000000001,
+   "erro_lula": -0.1599999999999966,
+   "m3": 3.594999999999999,
+   "m5": -6.8700000000000045,
+   "A": -0.15835699233187908,
+   "erro_bipartidario_flavio": -3.9553862547296816
+  },
+  {
+   "instituto": "Quaest",
+   "registro": "BR-06520/2026",
+   "campo": "2026-09-24 a 2026-09-27",
+   "dias_antes": 7,
+   "n": 2004,
+   "confianca": "95%",
+   "contratantes": [
+    "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "EDITORA GLOBO S/A / EDITORA GLOBO"
+   ],
+   "margem": "2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 40.0,
+   "lula": 46.0,
+   "erro_flavio": -7.030000000000001,
+   "erro_lula": 0.8400000000000034,
+   "m3": 3.9350000000000023,
+   "m5": -7.8700000000000045,
+   "A": -0.18033589905065425,
+   "erro_bipartidario_flavio": -4.502581877164708
+  },
+  {
+   "instituto": "Instituto França",
+   "registro": "BR-02928/2026",
+   "campo": "2026-09-28 a 2026-10-02",
+   "dias_antes": 2,
+   "n": 2000,
+   "confianca": "95%",
+   "contratantes": [
+    "INSTITUTO FRANCA DE PESQUISAS LTDA"
+   ],
+   "margem": "2,2",
+   "origem": "recalculado dos totais publicados (o instituto não publica válidos)",
+   "flavio": 40.5,
+   "lula": 43.9,
+   "erro_flavio": -6.530000000000001,
+   "erro_lula": -1.259999999999998,
+   "m3": 3.8949999999999996,
+   "m5": -5.270000000000003,
+   "A": -0.12118630264412768,
+   "erro_bipartidario_flavio": -3.028427793620125
+  },
+  {
+   "instituto": "Real Time Big Data",
+   "registro": "BR-09503/2026",
+   "campo": "2026-09-26 a 2026-09-30",
+   "dias_antes": 4,
+   "n": 2000,
+   "confianca": "95%",
+   "contratantes": [
+    "REAL TIME MIDIA LTDA"
+   ],
+   "margem": "2",
+   "origem": "válidos publicados (conferido em dados/verificacao_fontes.md)",
+   "flavio": 41.0,
+   "lula": 46.0,
+   "erro_flavio": -6.030000000000001,
+   "erro_lula": 0.8400000000000034,
+   "m3": 3.4350000000000023,
+   "m5": -6.8700000000000045,
+   "A": -0.15564328646028275,
+   "erro_bipartidario_flavio": -3.8877730025322563
+  },
+  {
+   "instituto": "Nexus",
+   "registro": "BR-07557/2026",
+   "campo": "2026-09-25 a 2026-09-27",
+   "dias_antes": 7,
+   "n": 2000,
+   "confianca": "95%",
+   "contratantes": [
+    "BANCO BTG PACTUAL S.A."
+   ],
+   "margem": "2",
+   "origem": "válidos publicados pelo instituto (BTG/Nexus)",
+   "flavio": 39.0,
+   "lula": 44.0,
+   "erro_flavio": -8.030000000000001,
+   "erro_lula": -1.1599999999999966,
+   "m3": 4.594999999999999,
+   "m5": -6.8700000000000045,
+   "A": -0.16120194446411035,
+   "erro_bipartidario_flavio": -4.026257976912532
+  }
+ ],
+ "n_finais": 12,
+ "flavio_abaixo": 12,
+ "flavio_abaixo_mais_de_meio_ponto": 10,
+ "lula_sub_sobre_acerto": [
+  5,
+  4,
+  3
+ ],
+ "erro_bipartidario_medio_finais": -1.8895076806442077
+}

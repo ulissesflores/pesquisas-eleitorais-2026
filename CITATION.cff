@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Se usar estes dados ou este código, cite assim."
+title: "Pesquisas eleitorais 2026: acurácia, direção do erro e cenários do 2º turno"
+version: 0.1.0
+date-released: 2026-10-23
+license: GPL-3.0-or-later
+repository-code: "https://github.com/ulissesflores/pesquisas-eleitorais-2026"
+url: "https://ulissesflores.com/artigos/pesquisas-eleitorais-2026"
+authors:
+  - family-names: Flores
+    given-names: Carlos Ulisses
+    orcid: "https://orcid.org/0000-0002-6034-7765"
+abstract: >-
+  Agregação das 38 rodadas registradas no TSE para o 2º turno presidencial de 2026 (mediana de 51,0% dos
+  válidos para Flávio Bolsonaro), probabilidade de vitória calibrada nos segundos turnos de 2002 a 2022 (77%,
+  faixa de 55% a 79%), classificação de acurácia de institutos em 1989-2026 e 2012-2022, e teste de erro
+  sistemático na mesma direção, com previsões registradas antes do resultado de 25/10/2026.
+keywords: [pesquisas eleitorais, eleições 2026, Brasil, acurácia de pesquisas, agregação de pesquisas]
+references:
+  - type: software
+    title: "Pindograma: ranking de institutos de pesquisa"
+    url: "https://github.com/pindograma/ranking_de_institutos"
+  - type: article
+    title: "A review and proposal for a new measure of poll accuracy"
+    authors: [{family-names: Martin, given-names: Elizabeth A.}, {family-names: Traugott, given-names: Michael W.}, {family-names: Kennedy, given-names: Courtney}]
+    journal: "Public Opinion Quarterly"
+    year: 2005
+    doi: 10.1093/poq/nfi044

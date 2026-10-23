@@ -1,0 +1,12 @@
+Pesquisas eleitorais 2026: acurácia, direção do erro e cenários do 2º turno
+Copyright 2026 Carlos Ulisses Flores
+
+Licenças (ver LICENSES/):
+- Código (codigo/, tests/, run_all.py, make_provenance.py): GPL-3.0-or-later (LICENSE). A junção
+  pesquisa x resultado de codigo/ranking.py reimplementa em Python a de
+  https://github.com/pindograma/ranking_de_institutos (GPL-3.0, (c) 2024 CincoNoveSeis Jornalismo Ltda.).
+- Textos, tabelas e figuras (artigo/, site/, docs/, README.md): CC-BY-4.0 (LICENSES/CC-BY-4.0.txt).
+- dados/externo/pindograma_*: dados e código do Pindograma, GPL-3.0, redistribuídos sem alteração.
+- dados/externo/tse/*.zip: dados abertos do Tribunal Superior Eleitoral (https://dadosabertos.tse.jus.br),
+  redistribuídos sem alteração (cópia de 23/10/2026, arquivo gerado às 05:46).
+- dados/*.csv: compilação do autor a partir de fontes públicas citadas linha a linha (coluna url).

@@ -1,0 +1,3 @@
+# Nada além da biblioteca padrão do Python 3.11+ para recalcular resultados, testes e selo.
+# Opcional, só para redesenhar a capa (codigo/capa.py):
+# pillow>=10

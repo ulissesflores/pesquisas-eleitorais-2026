@@ -1,0 +1,13 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Pesquisas eleitorais 2026: acurácia, direção do erro e cenários do 2º turno",
+  "version": "0.1.0",
+  "license": "https://spdx.org/licenses/GPL-3.0-or-later",
+  "codeRepository": "https://github.com/ulissesflores/pesquisas-eleitorais-2026",
+  "relatedLink": ["https://ulissesflores.com/artigos/pesquisas-eleitorais-2026"],
+  "programmingLanguage": "Python",
+  "dateCreated": "2026-10-23",
+  "author": [{"@type": "Person", "@id": "https://orcid.org/0000-0002-6034-7765", "givenName": "Carlos Ulisses", "familyName": "Flores"}],
+  "keywords": ["pesquisas eleitorais", "eleições 2026", "Brasil", "acurácia de pesquisas"]
+}
