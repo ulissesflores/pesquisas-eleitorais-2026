@@ -120,6 +120,8 @@ def test_texto_do_site():
     mdx = (RAIZ / "site/material/index.pt-br.mdx").read_text(encoding="utf-8")
     assert "{{" not in mdx and "mediante solicitação" not in mdx
     assert "title: 'As pesquisas erram contra a direita há 24 anos. No 2º turno, não" in mdx
+    repo = "https://github.com/ulissesflores/pesquisas-eleitorais-2026"
+    assert mdx.count(f"]({repo})") >= 2 and f"]({repo}/blob/main/PREREGISTRATION.md)" in mdx
 
 
 def test_determinismo():
